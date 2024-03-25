@@ -57,4 +57,10 @@
                 descricao='Estudante vagabundo'
                 githubLink='https://github.com/rikelme1810'
                 />
+ <Estudante 
+            nome="Ryan Cristian Silva Rocha"
+            imagem='https://github.com/trycsr.png'
+            descricao='Aluno do IFMS cursando a area de TI'
+            githubLink='https://github.com/trycsr'
+            />    
 
